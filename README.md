@@ -1,5 +1,5 @@
 # SCHEEPDOG
-Code for computer-controlled electrical stimulation to control collective cell migration
+Code for computer-controlled electrical stimulation to guide collective cell migration
 
 Citation: TJ Zajdel\*, G Shim\*, L Wang, A Rossello-Martinez, DJ Cohen. "SCHEEPDOG: programming electric cues to dynamically herd large-scale cell migration." *Cell Systems*, in press.
 
