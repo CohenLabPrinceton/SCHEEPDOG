@@ -18,7 +18,7 @@ fprintf(keith1,':SENS:FUNC "VOLT"');
 fprintf(keith1,':SENS:VOLT:RANG 40');
 
 % Initialize Keithley sourcemeter for y-axis current stimulation (GPIB connection, K2400)
-keith2 = serial('COM22');                                  % change for your setup
+keith2 = serial('COM00');                                  % change for your setup
 keith2.Terminator = 'CR/LF';
 keith2.Timeout =0.5;
 fopen(keith2);
