@@ -8,6 +8,7 @@ Citation: TJ Zajdel\*, G Shim\*, L Wang, A Rossello-Martinez, DJ Cohen. "SCHEEPD
 - MATLAB script for driving two-axis stimulation ([scheepdog_driver.m](scheepdog_driver.m))
 
 ## Instrumentation used
+Note that this is just the instrumentation that we used. You may use any pair of source meters with similar specs, and any interface cables (if required).
 - Keithley 2450 source meter
 - Keithley 2400 source meter
 - Digilent Analog Discovery 2
