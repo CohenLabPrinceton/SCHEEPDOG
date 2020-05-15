@@ -8,7 +8,7 @@
 %% Instrumentation initialization
 
 % Initialize Keithley sourcemeter for x-axis current stimulation (USB connection, K2450)
-keith1=visa('ni','USB0::0x05E6::0x2450::04365292::INSTR'); % change for your Keithley
+keith1=visa('ni','USB0::0x0000::0x0000::00000000::INSTR'); % change for your instrument
 fopen(keith1);
 fprintf(keith1,'*RST');  % configure keithley
 fprintf(keith1,':SOUR:FUNC CURR');
@@ -18,7 +18,7 @@ fprintf(keith1,':SENS:FUNC "VOLT"');
 fprintf(keith1,':SENS:VOLT:RANG 40');
 
 % Initialize Keithley sourcemeter for y-axis current stimulation (GPIB connection, K2400)
-keith2 = serial('COM22');  % change for your machine
+keith2 = serial('COM22');                                  % change for your setup
 keith2.Terminator = 'CR/LF';
 keith2.Timeout =0.5;
 fopen(keith2);
