@@ -5,7 +5,7 @@ Citation: TJ Zajdel\*, G Shim\*, L Wang, A Rossello-Martinez, DJ Cohen. "SCHEEPD
 
 ## Contents
 - Instrumentation wiring diagram for two-axis setup ([scheepdog_instrumentation.png](scheepdog_instrumentation.png))
-- MATLAB script for driving two-axis stimulation
+- MATLAB script for driving two-axis stimulation ([scheepdog_driver.m](scheepdog_driver.m))
 
 ## Instrumentation used
 - Keithley 2450 source meter
