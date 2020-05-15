@@ -4,7 +4,7 @@ Code for computer-controlled electrical stimulation to control collective cell m
 Citation: TJ Zajdel\*, G Shim\*, L Wang, A Rossello-Martinez, DJ Cohen. "SCHEEPDOG: programming electric cues to dynamically herd large-scale cell migration." *Cell Systems*, in press.
 
 ## Contents
-- Instrumentation wiring diagram for two-axis setup [scheepdog_instrumentation](scheepdog_instrumentation.png)
+- Instrumentation wiring diagram for two-axis setup ([scheepdog_instrumentation.png](scheepdog_instrumentation.png))
 - MATLAB script for driving two-axis stimulation
 
 ## Instrumentation used
@@ -14,6 +14,6 @@ Citation: TJ Zajdel\*, G Shim\*, L Wang, A Rossello-Martinez, DJ Cohen. "SCHEEPD
 - Prologix GPIB-USB Controller 6.0 (for GPIB connection b/w computer and Keithley 2400)
 
 ## Code dependencies
-- Mathworks Instrument Control Toolbox
-- Mathworks Data Acquisition Toolbox
-- Digilent Waveforms
+- [Instrument Control Toolbox](https://www.mathworks.com/products/instrument.html)
+- [Data Acquisition Toolbox](https://www.mathworks.com/products/data-acquisition.html)
+- [Digilent Analog Discovery Support from MATLAB](https://www.mathworks.com/hardware-support/digilent-analog-discovery.html)
