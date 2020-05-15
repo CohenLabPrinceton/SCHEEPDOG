@@ -9,9 +9,9 @@ Citation: TJ Zajdel\*, G Shim\*, L Wang, A Rossello-Martinez, DJ Cohen. "SCHEEPD
 
 ## Instrumentation used
 Note that this is just the instrumentation that we had available. You may use any pair of source meters with similar specs (e.g. two Keithley 2400s) and whichever interface cables you require or prefer.
-- Keithley 2450 source meter
-- Keithley 2400 source meter
-- Digilent Analog Discovery 2
+- Keithley 2450 source meter - x-axis stimulation
+- Keithley 2400 source meter - y-axis stimulation
+- Digilent Analog Discovery 2 - digital multimeter
 - Prologix GPIB-USB Controller 6.0 (for GPIB connection b/w computer and Keithley 2400)
 
 ## Code dependencies
