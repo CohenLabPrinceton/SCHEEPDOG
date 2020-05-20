@@ -6,7 +6,7 @@ Citation: TJ Zajdel\*, G Shim\*, L Wang, A Rossello-Martinez, DJ Cohen. "SCHEEPD
 ## Contents
 - Instrumentation wiring diagram for two-axis setup ([scheepdog_instrumentation.png](scheepdog_instrumentation.png))
 - MATLAB script for driving two-axis stimulation ([scheepdog_driver.m](scheepdog_driver.m))
-- Design files for laser-cut acrylic components of the device ([scheepdog_drawings.pdf](scheepdog_drwaings.pdf)).
+- Design files for laser-cut acrylic components of the device ([scheepdog_drawings.pdf](scheepdog_drwaings.pdf))
 
 ## Instrumentation used
 Note that this is just the instrumentation that we had available. You may use any pair of source meters with similar specs (e.g. two Keithley 2400s) and whichever interface cables you require or prefer.
