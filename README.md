@@ -6,7 +6,10 @@ Citation: TJ Zajdel\*, G Shim\*, L Wang, A Rossello-Martinez, DJ Cohen. "SCHEEPD
 ## Contents
 - Instrumentation wiring diagram for two-axis setup ([scheepdog_instrumentation.png](scheepdog_instrumentation.png))
 - MATLAB script for driving two-axis stimulation ([scheepdog_driver.m](scheepdog_driver.m))
-- Design files for laser-cut acrylic components of the device ([scheepdog_drawings.pdf](scheepdog_drawings.pdf))
+- Design files for laser-cut acrylic components for the two-axis SCHEEPDOG device ([scheepdog_drawings.pdf](scheepdog_drawings.pdf))
+- Silhouette studio file to cut silicone stencil for two-axis SCHEEPDOG stimulation ([scheepdog_stencil.studio3](scheepdog_stencil.studio3))
+- Design files for laser-cut acrylic components for the convergent field stimulation device ([convergent_field_drawings.pdf](convergent_field_drawings.pdf))
+- Silhouette studio file to cut silicone stencil for convergent field stimulation ([convergent_field_stencil.studio3](convergent_field_stencil.studio3))
 
 ## Instrumentation used
 Note that this is just the instrumentation that we had available. You may use any pair of source meters with similar specs (e.g. two Keithley 2400s) and whichever interface cables you require or prefer.
