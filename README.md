@@ -15,7 +15,7 @@ Citations:
   - Design files for laser-cut acrylic components for the convergent field stimulation device ([convergent_field_drawings.pdf](convergent_field_drawings.pdf))
   - Silhouette studio file to cut silicone stencil for convergent field stimulation ([convergent_field_stencil.studio3](convergent_field_stencil.studio3))
 - CAD and code supporting single-axis stimulation for dynamics studies
-  - Design files for laser-cut acrylic components for the single-axis field stimulation device ([single_axis_drawings.pdf](single-axis_drawings.pdf))
+  - Design files for laser-cut acrylic components for the single-axis field stimulation device ([single_axis_drawings.pdf](single_axis_drawings.pdf))
   - Silhouette studio file to cut silicone stencil for single-axis field stimulation ([single_axis_stencil.studio3](single_axis_stencil.studio3))
   
 ## Instrumentation used
