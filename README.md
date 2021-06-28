@@ -14,7 +14,10 @@ Citations:
 - CAD and code supporting convergent stimulation (ref 2)
   - Design files for laser-cut acrylic components for the convergent field stimulation device ([convergent_field_drawings.pdf](convergent_field_drawings.pdf))
   - Silhouette studio file to cut silicone stencil for convergent field stimulation ([convergent_field_stencil.studio3](convergent_field_stencil.studio3))
-
+- CAD and code supporting single-axis stimulation for dynamics studies
+  - Design files for laser-cut acrylic components for the single-axis field stimulation device ([single_axis_drawings.pdf](single-axis_drawings.pdf))
+  - Silhouette studio file to cut silicone stencil for single-axis field stimulation ([single_axis_stencil.studio3](single_axis_stencil.studio3))
+  
 ## Instrumentation used
 Note that this is just the instrumentation that we had available. You may use any pair of source meters with similar specs (e.g. two Keithley 2400s) and whichever interface cables you require or prefer.
 - Keithley 2450 source meter - x-axis stimulation
