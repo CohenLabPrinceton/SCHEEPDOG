@@ -3,7 +3,7 @@ Code for computer-controlled electrical stimulation to guide collective cell mig
 
 Citations:
 1. TJ Zajdel\*, G Shim\*, L Wang, A Rossello-Martinez, DJ Cohen. "[SCHEEPDOG: programming electric cues to dynamically herd large-scale cell migration](https://doi.org/10.1016/j.cels.2020.05.009)." *Cell Systems*,  vol. 10, no. 6, pp. 506-514, 2020.
-2. TJ Zajdel, G Shim, DJ Cohen. "[Come together: bioelectric healing-on-a-chip](https://doi.org/10.1101/2020.12.29.424578)." *bioRxiv*, 2020.
+2. TJ Zajdel, G Shim, DJ Cohen. "[Come together: On-chip bioelectric wound closure](https://doi.org/10.1016/j.bios.2021.113479)." *Biosensors and Bioelectronics*, vol. 192, p. 113479, 2021.
 
 ## Contents
 - CAD and code supporting two-axis SCHEEPDOG device (ref 1)
